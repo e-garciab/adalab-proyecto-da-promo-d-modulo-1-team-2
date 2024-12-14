@@ -1,14 +1,14 @@
-# Proyecto 1 del Bootcamp de Data Analytics de ADALAB: Creación de Juegos Clásicos en Python
-## Descripción del Proyecto
+# Proyecto 1 del Bootcamp de Data Analytics de ADALAB: Creación de Juegos Clásicos en Python  
+## Descripción del Proyecto  
 En este primer trabajo grupal del curso de Data Analytics de ADALAB, diseñamos un juego clásico utilizando Python: Preguntas y Respuestas. Este proyecto representa nuestro primer acercamiento al aprendizaje de Python, una herramienta clave para nuestra futura trayectoria como analistas de datos. La idea central fue desarrollar este juego para familiarizarnos con la sintaxis del lenguaje, mejorar nuestras habilidades de programación y colaborar en equipo para resolver problemas mediante código.
 ________________________________________
-## Juego Desarrollado: Preguntas y Respuestas
-•	Descripción: Un juego que plantea preguntas sobre un tema concreto y reta a los jugadores a responder correctamente para ganar.
-•	Reglas:
-o	Las preguntas están relacionadas con la temática navideña.
-o	El objetivo es acertar 8 preguntas para ganar.
-o	El número máximo de respuestas incorrectas son 5.
-o	Se puede jugar de forma individual o en equipo.
+## Juego Desarrollado: Preguntas y Respuestas  
+•	Descripción: Un juego que plantea preguntas sobre un tema concreto y reta a los jugadores a responder correctamente para ganar.  
+•	Reglas:  
+o	Las preguntas están relacionadas con la temática navideña.  
+o	El objetivo es acertar 8 preguntas para ganar.  
+o	El número máximo de respuestas incorrectas son 5.  
+o	Se puede jugar de forma individual o en equipo.  
 ________________________________________
 ## Objetivos del Proyecto
 •	Familiarización con Python: Este proyecto nos brindó la oportunidad de aprender los fundamentos de Python, comprender su sintaxis básica y aplicarla en la creación de aplicaciones simples.
