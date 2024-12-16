@@ -1,11 +1,11 @@
-# Proyecto 1 del Bootcamp de Data Analytics de ADALAB: Creación de Juegos Clásicos en Python  
+# Proyecto final del módulo 1 del Bootcamp de Data Analytics de Adalab: Juegos Clásicos en Python  
 ## Descripción del Proyecto  
-En este primer trabajo grupal del curso de Data Analytics de ADALAB, diseñamos un juego clásico utilizando Python: Preguntas y Respuestas. Este proyecto representa nuestro primer acercamiento al aprendizaje de Python, una herramienta clave para nuestra futura trayectoria como analistas de datos. La idea central fue desarrollar este juego para familiarizarnos con la sintaxis del lenguaje, mejorar nuestras habilidades de programación y colaborar en equipo para resolver problemas mediante código.
+En este primer trabajo grupal del bootcamp de Data Analytics de Adalab, diseñamos un juego clásico utilizando el lenguaje de programación Python. Este proyecto representa nuestro primer acercamiento al aprendizaje de Python, una herramienta clave para nuestra futura trayectoria como analistas de datos. La idea central es desarrollar un juego para familiarizarnos con la sintaxis del lenguaje, mejorar nuestras habilidades de programación y colaborar en equipo para resolver problemas mediante código. El juego asignado es "Preguntas y Respuestas".
 ________________________________________
 ## Juego Desarrollado: Preguntas y Respuestas  
-•	Descripción: Un juego que plantea preguntas sobre un tema concreto y reta a los jugadores a responder correctamente para ganar.  
+•	Descripción: Se trata de un juego en el que se hacen preguntas sobre una variedad de temas y los jugadores deben responder correctamente para avanzar. El objetivo del juego es responder la mayor cantidad de preguntas correctamente para ganar el juego.  
 •	Reglas:  
-  o	Las preguntas están relacionadas con la temática navideña.  
+  o	Las preguntas están relacionadas con temática navideña.  
   o	El objetivo es acertar 8 preguntas para ganar.  
   o	El número máximo de respuestas incorrectas son 5.  
   o	Se puede jugar de forma individual o en equipo.  
@@ -15,7 +15,7 @@ ________________________________________
 •	Trabajo colaborativo: Aprendimos a trabajar de manera grupal para resolver problemas y reforzar nuestras habilidades de colaboración.  
 •	Introducción a la lógica de programación: Implementamos la lógica necesaria para un juego clásico, lo que fortaleció nuestra capacidad de pensar de manera algorítmica.  
 ________________________________________
-## Estructura del Proyecto  
+## Contenido del Proyecto  
 •	Código Fuente: Incluye el script de Python desarrollado para el juego.  
 •	Documentación: Contiene este README y cualquier material adicional relevante al proyecto.  
 ________________________________________
