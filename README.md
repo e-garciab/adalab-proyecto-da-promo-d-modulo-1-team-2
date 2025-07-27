@@ -19,6 +19,9 @@ ________________________________________
 •	Código Fuente: Incluye el script de Python desarrollado para el juego.  
 •	Documentación: Contiene este README y cualquier material adicional relevante al proyecto.  
 ________________________________________
+## Presentación
+https://view.genially.com/67596834c7b0fd1fa50d0281/interactive-content-quiz-ayudantes-de-papa-noel
+________________________________________
 ## Equipo  
 •	Arellis Carla Quispe Torres  
 •	Herminia Morales Sánchez  
